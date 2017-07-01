@@ -1,4 +1,4 @@
-# The SELinux Toggler (Test 1)
+# The SELinux Toggler
 
 The SelinuxToggler is a Reboot off the Original SELinuxModeChanger by (and with a very special thanks to) MrBIMC .
 
@@ -20,3 +20,5 @@ Thank you ALL for your time, patience and understanding!
 
 
 ~Ibuprophen
+
+# Test 1
