@@ -1,4 +1,7 @@
 # The SELinux Toggler
+# [DISCONTINUED]
+
+This project has been discontinued for the release of The SELinux Switch. 
 
 The SelinuxToggler is a Reboot off the Original SELinuxModeChanger by (and with a very special thanks to) MrBIMC .
 
@@ -21,4 +24,4 @@ Thank you ALL for your time, patience and understanding!
 
 ~Ibuprophen
 
-# Test 1
+
